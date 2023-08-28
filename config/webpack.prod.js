@@ -13,8 +13,8 @@ module.exports = merge(common, {
     path: paths.build,
     
     // Note: Needed for GH Pages !
-    // 19-08-2023 - git repo name / path - needed for hosting on sub-domain at GH Pages !
-    publicPath: '/gh-pages-react-node-orm-test/',
+    // 28-08-2023 - git repo name / path - needed for hosting on sub-domain at GH Pages !
+    publicPath: '/gh-pages-react-node-orm-client/',
     filename: 'js/[name].[contenthash].bundle.js',
   },
     

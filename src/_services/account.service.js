@@ -68,7 +68,7 @@ function logout() {
     
     // Note: Needed for GH Pages !
     // Redirects to about page
-    history.push('/gh-pages-react-node-orm-test/');
+    history.push('/gh-pages-react-node-orm-client/');
    
    // history.push('/account/login');
    // history.push('/about');
