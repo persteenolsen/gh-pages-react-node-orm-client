@@ -6,6 +6,19 @@ This React client have functions adapted to GH Pages using HasRouting
 
 The React client uses DevOps by GitHub + Actions + Pages 
 
+Files adapted with "gh-pages-react-node-orm-client/" for the React client running under a subdomain at GH Pages:
+- config/webpack.prod.js
+- src/app/index.jsx
+
+Files adapted with different code for the React client running under a subdomain at GH Pages:
+- src/index.js
+- src/app/index.jsx
+- src/service/account.service.js ( targeting new Node.js Web API endpoints )
+
+Files adapted at the Node.js Web API for receiving requests from the client at GH Pages:
+- accounts/accounts.controller.js 
+
+
 # Usage
 
 # Installing
