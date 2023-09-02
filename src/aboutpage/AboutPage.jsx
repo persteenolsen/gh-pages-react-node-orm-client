@@ -32,7 +32,7 @@ class AboutPage extends React.Component {
 
 			   <b>Last updated:</b>
 			   <ul>
-				  <li>29-08-2023</li>
+				  <li>02-09-2023</li>
 			   </ul>
 
 			   <b>GitHub</b>
@@ -122,7 +122,7 @@ class AboutPage extends React.Component {
 		     <ul>
               <li>React 16.8.6 for the frontend client</li>
 			  <li>Bootstrap 4.4.1 for the responsive design of the frontend delivered by CDN</li>
-			  <li>Node.js 8.9.4 and Express 4.16.3 for the backend Web API</li>
+			  <li>Initial Node.js 8.9.4 and Express 4.16.3 for the backend Web API</li>
 			  <li>Webpack 4.29.6 for the module bundler</li>
 			  <li>MySQL 5.7 as database</li>
              </ul>
