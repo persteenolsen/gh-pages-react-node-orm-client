@@ -1,4 +1,8 @@
-# A React client for Node Express Sequelize Web API with Login hosted at GH Pages 
+# A React client for Node Express Sequelize Web API with Login hosted at GH Pages
+
+Last updated: 02-12-2024
+
+Node Version 20.18.1  
 
 A React client - for a Node Express Sequelize MySQL Web API - using Webpack 5, Babel 7, PostCSS and Sass with a hot dev server and an optimized production build. Babel compiles ES6+ and React to ES5. Some older Browsers like IE 11 are partly supported 
 
