@@ -37,7 +37,7 @@ class AboutPage extends React.Component {
 
 			   <b>Node Version:</b>
 			   <ul>
-				  <li>20.18.1</li>
+				  <li>14.x - higher versions will fail at GH</li>
 			   </ul>
 
 			   <b>GitHub</b>
