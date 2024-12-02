@@ -2,7 +2,7 @@
 
 Last updated: 02-12-2024
 
-Node Version 20.18.1  
+Node Version 14.x because more recents versions of Node fails at GH  
 
 A React client - for a Node Express Sequelize MySQL Web API - using Webpack 5, Babel 7, PostCSS and Sass with a hot dev server and an optimized production build. Babel compiles ES6+ and React to ES5. Some older Browsers like IE 11 are partly supported 
 
