@@ -32,7 +32,7 @@ class AboutPage extends React.Component {
 
 			   <b>Last updated:</b>
 			   <ul>
-				  <li>02-12-2024</li>
+				  <li>10-01-2025</li>
 			   </ul>
 
 			   <b>Node Version:</b>

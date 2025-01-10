@@ -1,6 +1,6 @@
 # A React client for Node Express Sequelize Web API with Login hosted at GH Pages
 
-Last updated: 02-12-2024
+Last updated: 10-01-2025
 
 Node Version 14.x because higher versions of Node fails at GH  
 
